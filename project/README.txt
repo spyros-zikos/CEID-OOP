@@ -14,3 +14,6 @@ Use one to enter the system. From there explore the available options.
 Run from terminal:
 -> javac Main.java
 -> java Main
+
+
+Note: The project was made with BlueJ editor.
